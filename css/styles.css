@@ -360,7 +360,7 @@ body {
 
 .div-icons {
   display: flex;
-  align-content: center;
+  align-items: center;
   justify-content: center;
   height: 112px;
   background-color:var(--white-color--);
